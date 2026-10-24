@@ -1,0 +1,14 @@
+  C Program for practice :=
+1. WAP to find greatest number in three unequal numbers.
+2. WAP to make a simple calculator using switch.
+3. WAP to find sum of digits of given numbers .
+4. WAP to check given number prime or not.
+5. WAP to create a array of ten numbers and find of sum and average of numbers.
+6. WAP to check given two matrices or equal are not.
+7. WAP to given string is palindrome or not.
+8. WAP to find factorial of given number using recursion.
+9. WAP to take a string as input and count vowel in string.
+10. WAP to print series of even numbers in given range.
+11. WAP to take coordinate of a point as input and check its quadrant.
+12. WAP to check given number is Armstrong or not.
+13.
